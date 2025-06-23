@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Salut ! Moi c'est Bil Ri
 
-<!--
-**CodeWithRihana/CodeWithRihana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en Réseaux & Télécommunications  
+💻 Passionnée par la fibre optique, les réseaux, la cybersécurité et le développement logiciel  
+🌍 Burkina Faso  
+📚 Toujours en train d'apprendre de nouvelles choses en IT  
+🚀 En quête de stages et projets passionnants
 
-Here are some ideas to get you started:
+## 🛠 Compétences en cours d'apprentissage :
+- Réseaux (Cisco, fibre optique, IP)
+- Développement Java (Swing)
+- Bases de données MySQL
+- Git & GitHub
+- Sécurité informatique (débutante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets en cours :
+- Application de gestion de bibliothèque (Java + MySQL)
+- Mini-lab de simulation réseau
+
+## 📫 Contacte-moi :
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📧 bilgorihana@gmail.com
+
+Merci de visiter mon profil ! ✨
